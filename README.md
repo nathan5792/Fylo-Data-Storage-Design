@@ -25,7 +25,7 @@ This is my solution to the [Fylo-data-storage on Frontend Mentor](https://www.fr
 ![Fylo-data-storage](./fylo-data-storage-preview.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/nathan5792/Fylo-Data-Storage-Design.git
 - Live Site URL: https://nathan5792.github.io/Fylo-Data-Storage-Design/
 
 ## My process
